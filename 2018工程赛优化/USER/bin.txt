@@ -1,0 +1,262 @@
+//	while(1)
+//	{
+//		
+//		xiaoduoji(1);
+//		delay_ms(1000);
+//		xiaoduoji(2);
+//		delay_ms(1000);
+//	}
+//	while(1)
+//	{
+//		duqui();
+//		if(Ramount<0x60)//绿
+//		{
+//			printf("绿");	
+//		}
+//		if(Ramount<0xC0&&Ramount>0x60)//红
+//		{
+//			printf("红");
+//		}	
+//		if(Ramount>0xC0)//白
+//		{
+//			printf("白");
+//		}		
+////		printf("colour=%f\r\n",Ramount);	
+//		delay_ms(1000);	  
+//		printf("aaa\n\r");
+//	}
+//	yunsu(300,300);
+//	ting();
+	
+	cc=0;
+
+
+
+//	duoji1234(145,212,116);//第三排上 150 208 114
+//	while(1);
+	
+//	duoji();
+//	daochesebiaohou0();//倒车色标触线
+//	speed1(0,0);
+//	ting();
+xiaoduoji(1);
+duoji1243(60,116,74);//收纳
+delay_ms(1000);
+delay_ms(1000);
+
+xuanyanse();
+//while(1);
+zhuawuliao(yansexuan);
+while(1);
+duoji1243(60,116,74);//收纳
+delay_ms(1000);
+delay_ms(1000);
+
+//duoji1342(60,116,74);
+	while(1)
+	{
+		led(0);
+		delay_ms(1000);
+		led(2);
+		delay_ms(1000);
+	}
+//duoji1342(128,230,106);//第二排上 130 228 109\158 232 88
+duoji1234(145,212,116);//第三排上
+delay_ms(1000);
+delay_ms(1000);
+//while(1);
+while(1)
+{
+	mantiao(145,212,116);//第三排上 150 208 114
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+	mantiao(165,210,104);//163 210 104
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+	xiaoduoji(2);
+	ceyanse();
+	if(yanse==3)
+	{
+		break;
+	}
+	mantiao(145,212,118);//150 208 110
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+	
+	mantiao(128,234,102);//第二排上
+	delay_ms(1000);
+	delay_ms(1000);
+//	delay_ms(1000);
+	
+	mantiao(158,232,86);//
+	delay_ms(1000);
+	delay_ms(1000);
+//	delay_ms(1000);
+	
+	mantiao(128,234,102);
+	delay_ms(1000);
+	delay_ms(1000);
+//	delay_ms(1000);
+	
+	mantiao(116,250,100);//第一排上116,250,95 
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+		
+		mantiao(156,249,74);//第一排下
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+//		while(1);
+		
+//		xiaoduoji(2);
+//		delay_ms(1000);
+//		delay_ms(1000);
+//		xiaoduoji(1);
+//		delay_ms(1000);
+//		delay_ms(1000);
+		
+		mantiao(116,250,100);//116 250 98
+		delay_ms(1000);
+		delay_ms(1000);
+//		delay_ms(1000);
+	
+	duoji1324(150,170,150);
+	delay_ms(1000);
+	
+}
+while(1)
+{
+	led(0);
+	delay_ms(1000);
+	led(2);
+	delay_ms(1000);
+}
+
+while(1)
+{
+	mantiao(128,230,106);//2
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+	
+	mantiao(158,232,86);//
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+//		while(1);
+	
+//		xiaoduoji(2);
+//		delay_ms(1000);
+//		delay_ms(1000);
+//		xiaoduoji(1);
+//		delay_ms(1000);
+//		delay_ms(1000);
+	
+	mantiao(130,228,108);
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+	
+	}
+//duoji1234(147,213,114);//第三排上
+//while(1);
+while(0)
+{
+		duoji1243(60,116,74);
+		delay_ms(1000);
+		delay_ms(1000);
+		delay_ms(1000);
+	mantiao(124,250,98);
+	delay_ms(1000);
+		delay_ms(1000);
+		delay_ms(1000);
+	
+}
+while(0)
+{
+	duoji1234(124,250,97);//147 213 114 第三排上
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+	
+	mantiao(156,248,73);//第一排下
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+//		while(1);
+	
+//		xiaoduoji(2);
+//		delay_ms(1000);
+//		delay_ms(1000);
+//		xiaoduoji(1);
+//		delay_ms(1000);
+//		delay_ms(1000);
+	
+	mantiao(124,250,101);
+	delay_ms(1000);
+	delay_ms(1000);
+	delay_ms(1000);
+	
+	}
+//duoji1234(116,250,98);
+	while(1)
+	{
+		duoji1234(116,250,100);//116,250,95 第一排上
+		delay_ms(1000);
+		delay_ms(1000);
+		delay_ms(1000);
+		
+		mantiao(156,249,73);//第一排下
+		delay_ms(1000);
+		delay_ms(1000);
+		delay_ms(1000);
+//		while(1);
+		
+//		xiaoduoji(2);
+//		delay_ms(1000);
+//		delay_ms(1000);
+//		xiaoduoji(1);
+//		delay_ms(1000);
+//		delay_ms(1000);
+		
+		mantiao(116,250,100);//116 250 98
+		delay_ms(1000);
+		delay_ms(1000);
+		delay_ms(1000);
+		
+	}
+	while(0)
+	{
+		ceyanse();
+	}
+	//while(1);
+//	duoji();
+//	led(1);
+//	xiaoduoji(2);
+//	delay_ms(1000);
+//	led(0);
+//	delay_ms(1000);
+//	delay_ms(1000);
+//	delay_ms(1000);
+//	delay_ms(1000);
+//	while(1)
+//	{
+//		led(1);
+//		delay_ms(1000);
+//		led(2);
+//		delay_ms(1000);
+//	}
+//	duoji();
+		
+//	duoji();
+	
+//	TIM_SetCompare1(TIM3,168);
+//	delay_ms(1000);
+//	delay_ms(1000);
+//	delay_ms(1000);
+//	TIM_SetCompare1(TIM3,90);
+//	ceshi();
