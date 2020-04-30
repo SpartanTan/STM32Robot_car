@@ -1,0 +1,23 @@
+#include "sys.h"
+void ceyanse(void);//测颜色
+void xuanyanse(void);//选颜色
+void fangwuliao(void);//放物料
+void zero(void);
+void one(void);
+void two(void);
+void three(void);
+void four(void);
+void four1(void);
+void five(void);
+void six(void);
+void seven(void);
+void eight(void);
+void nine(void);
+void ten(void);
+void eleven(void);
+void twelve(void);
+void thirteen(void);
+void fourteen(void);
+void fifteen(void);
+void zhuawuliao(void);
+
